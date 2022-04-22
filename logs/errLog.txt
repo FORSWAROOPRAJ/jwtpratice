@@ -1,0 +1,24 @@
+20220415	19:33:25	dbb5de29-691c-4d71-811f-a5bff0c58656	Error: Not allowed by CORS
+20220415	19:37:00	57c73c12-7c2c-4c9b-b4c1-f387a3758c5b	Error: Not allowed by CORS
+20220415	19:37:00	4812938a-e355-4da2-a210-b07726922866	Error: Not allowed by CORS
+20220415	19:37:46	c7d1429a-17ac-4b34-a2a9-b119671f9ff7	Error: Not allowed by CORS
+20220415	19:37:47	c8a5c925-94ca-45fa-ad85-efed8631c120	Error: Not allowed by CORS
+20220415	19:37:47	0d8255c1-027b-46e8-ac76-fdae355520c9	Error: Not allowed by CORS
+20220415	19:37:47	37eb0299-525c-46a2-addc-f3812aa2f2ac	Error: Not allowed by CORS
+20220415	19:39:32	0c0035d2-eef5-4c01-96b5-c509dc592c3f	Error: Not allowed by CORS
+20220415	19:40:46	c3a12fd2-67d5-4b27-a066-237a1885e55b	Error: Not allowed by CORS
+20220415	19:40:47	6a7288b4-384d-40a1-8bf2-21393ce7efc1	Error: Not allowed by CORS
+20220415	19:40:47	4975ea26-f094-410f-a2a8-bb389504b5c4	Error: Not allowed by CORS
+20220415	19:40:47	fdddc1bd-afeb-4852-a73f-a4fef571918e	Error: Not allowed by CORS
+20220415	19:40:52	9aebb61e-9ee8-4198-aa9b-d4517d3cebb1	Error: Not allowed by CORS
+20220415	20:08:21	79b3dfb4-ec12-493d-bd00-682dbaed3da3	SyntaxError: Unexpected token ! in JSON at position 46
+20220415	20:08:44	ae7fd2e1-15fc-4744-98c7-2d6abcc68a7d	SyntaxError: Unexpected token ! in JSON at position 46
+20220415	20:26:09	77240875-afe7-4b33-ac60-4c91936e78a6	Error: Not allowed by CORS
+20220415	20:26:13	6a32f53b-298a-464c-bb14-90c5b6d94304	Error: Not allowed by CORS
+20220415	20:26:14	8b105c21-ce11-4c72-bfd2-446c575e2758	Error: Not allowed by CORS
+20220415	20:26:15	4f0d3455-5561-45c9-a325-9d7b0efbc436	Error: Not allowed by CORS
+20220415	20:26:16	c7497810-8876-4842-a55f-35499d5e7fd1	Error: Not allowed by CORS
+20220415	20:26:16	c137b132-f143-4d3d-88a7-a6571723146a	Error: Not allowed by CORS
+20220415	20:26:17	2f4f2e36-dfdd-470b-b575-6429697a3c6d	Error: Not allowed by CORS
+20220415	20:26:17	978b833f-3a4f-433a-895d-8f68b4cdd552	Error: Not allowed by CORS
+20220416	18:42:29	d94d8c05-758e-47b8-91f2-82b440b79420	SyntaxError: Unexpected string in JSON at position 40

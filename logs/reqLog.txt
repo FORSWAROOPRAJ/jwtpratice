@@ -397,3 +397,8 @@
 20220422	17:53:26	529e8b92-71e0-4719-ac03-c9ac6539d45b	OPTIONS	http://localhost:3000	/auth
 20220422	17:53:26	34d8f38d-5d63-4bf3-812e-aa9810f9e8cf	POST	http://localhost:3000	/auth
 20220422	18:16:26	370d48e1-db87-4ef5-8245-b8adb6759ed8	OPTIONS	https://6262a234dafa2c1a8ce0361c--genuine-sunburst-75ac4f.netlify.app	/register
+20220422	18:26:30	701864a9-77b3-4b5f-a07e-5a98af7398df	OPTIONS	https://6262a234dafa2c1a8ce0361c--genuine-sunburst-75ac4f.netlify.app	/register
+20220422	18:26:31	947cf117-21a3-4b25-8abd-7e7a67323db9	OPTIONS	https://6262a234dafa2c1a8ce0361c--genuine-sunburst-75ac4f.netlify.app	/register
+20220422	18:26:32	2db5b012-03b4-4411-a1b7-97d9ec1e3af8	OPTIONS	https://6262a234dafa2c1a8ce0361c--genuine-sunburst-75ac4f.netlify.app	/register
+20220422	18:27:18	563ce286-e958-4af2-bc40-c53761b888f7	OPTIONS	https://6262a234dafa2c1a8ce0361c--genuine-sunburst-75ac4f.netlify.app	/register
+20220422	18:28:42	9988237c-e252-47d6-9783-bfc1d4650929	OPTIONS	https://6262a234dafa2c1a8ce0361c--genuine-sunburst-75ac4f.netlify.app	/register

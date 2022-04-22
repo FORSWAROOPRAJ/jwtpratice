@@ -386,3 +386,6 @@
 20220418	23:19:21	8604a799-62a2-45e1-96f8-f0c31928b4f9	GET	http://localhost:3000	/v1/projects
 20220418	23:19:29	b5e1ab5a-cd89-4aa8-9c6c-57e6407af6bf	GET	http://localhost:3000	/v1/projects
 20220418	23:23:15	588b7677-5c48-484d-853e-202b148c293c	GET	http://localhost:3000	/v1/projects
+20220422	08:47:58	1b2b5468-6ed6-4790-b2d5-36dcbb55fd25	GET	undefined	/
+20220422	08:47:58	92f2b243-491d-4448-a116-c16f10888307	GET	undefined	/css/style.css
+20220422	08:47:59	a64d9d85-aa7f-457f-9454-b0535e182897	GET	undefined	/favicon.ico

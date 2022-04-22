@@ -5,7 +5,9 @@
   "main": "server.js",
   "scripts": {
     "start": "node server",
-    "dev": "nodemon server"
+    "dev": "nodemon server",
+    "heroku-prebuild": "npm install --prefix server && npm install",
+ "heroku-postbuild": "npm run build --prefix server && ng build --prod"
   },
   "author": "Dave Gray",
   "license": "ISC",

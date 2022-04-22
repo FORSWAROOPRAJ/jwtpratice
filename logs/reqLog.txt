@@ -389,3 +389,10 @@
 20220422	08:47:58	1b2b5468-6ed6-4790-b2d5-36dcbb55fd25	GET	undefined	/
 20220422	08:47:58	92f2b243-491d-4448-a116-c16f10888307	GET	undefined	/css/style.css
 20220422	08:47:59	a64d9d85-aa7f-457f-9454-b0535e182897	GET	undefined	/favicon.ico
+20220422	17:04:22	760aba28-dbc1-42ad-a991-f1592c3b9087	GET	undefined	/
+20220422	17:04:23	30a8b59d-7f9d-46d4-80c9-0edcb2037e4f	GET	undefined	/css/style.css
+20220422	17:04:23	ca3f1801-4dfc-4b71-91aa-3174adea5e4b	GET	undefined	/favicon.ico
+20220422	17:53:14	ec3a4876-eff8-48cc-b585-b30b67a033b4	OPTIONS	http://localhost:3000	/auth
+20220422	17:53:14	e910b3e1-4003-45d7-8728-3a9b7919ad70	POST	http://localhost:3000	/auth
+20220422	17:53:26	529e8b92-71e0-4719-ac03-c9ac6539d45b	OPTIONS	http://localhost:3000	/auth
+20220422	17:53:26	34d8f38d-5d63-4bf3-812e-aa9810f9e8cf	POST	http://localhost:3000	/auth

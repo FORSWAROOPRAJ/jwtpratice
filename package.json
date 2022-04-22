@@ -3,17 +3,8 @@
   "version": "1.0.0",
   "description": "MongoDB tutorial",
   "main": "server.js",
-  "version": 2,
-  "builds": [{
-    "src": "./server.js",
-    "use": "@now/node-server"
-  }],
-  "routes": [{"handle": "filesystem"},
-    {
-      "src": "/.*",
-      "dest": "server.js"
-    }
-  ],
+ 
+
   "scripts": {
     "start": "node server",
     "dev": "nodemon server"
@@ -21,7 +12,7 @@
   "author": "Dave Gray",
   "license": "ISC",
   "engines": {
-    "node": "14.x"
+    "node": "16.0"
   },
   "dependencies": {
     "bcrypt": "^5.0.1",

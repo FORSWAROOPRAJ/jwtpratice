@@ -3,11 +3,13 @@
   "version": "1.0.0",
   "description": "MongoDB tutorial",
   "main": "server.js",
+  
   "scripts": {
     "start": "node server",
     "dev": "nodemon server",
+    "build":"node server",
     "heroku-prebuild": "npm install --prefix server && npm install",
- "heroku-postbuild": "npm run build --prefix server && ng build --prod"
+ "heroku-postbuild": "npm run build --prefix server"
   },
   "author": "Dave Gray",
   "license": "ISC",

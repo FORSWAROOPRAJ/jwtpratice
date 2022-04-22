@@ -402,3 +402,5 @@
 20220422	18:26:32	2db5b012-03b4-4411-a1b7-97d9ec1e3af8	OPTIONS	https://6262a234dafa2c1a8ce0361c--genuine-sunburst-75ac4f.netlify.app	/register
 20220422	18:27:18	563ce286-e958-4af2-bc40-c53761b888f7	OPTIONS	https://6262a234dafa2c1a8ce0361c--genuine-sunburst-75ac4f.netlify.app	/register
 20220422	18:28:42	9988237c-e252-47d6-9783-bfc1d4650929	OPTIONS	https://6262a234dafa2c1a8ce0361c--genuine-sunburst-75ac4f.netlify.app	/register
+20220422	18:44:03	078682e8-5dbe-4bc7-ae9b-a94d0661a410	GET	undefined	/
+20220422	18:44:03	05f3a27f-a151-4c3e-badf-19eda6a5c774	GET	undefined	/css/style.css

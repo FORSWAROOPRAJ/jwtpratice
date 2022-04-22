@@ -1,8 +1,8 @@
 const allowedOrigins = [
-    'https://git.heroku.com/jwtpraticeguvi.git',
+    'https://genuine-sunburst-75ac4f.netlify.app',
     'http://127.0.0.1:5500',
     'http://localhost:3500',
-    'https://genuine-sunburst-75ac4f.netlify.app'
+    
     
 ];
 

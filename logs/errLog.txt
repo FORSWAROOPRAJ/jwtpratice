@@ -22,3 +22,4 @@
 20220415	20:26:17	2f4f2e36-dfdd-470b-b575-6429697a3c6d	Error: Not allowed by CORS
 20220415	20:26:17	978b833f-3a4f-433a-895d-8f68b4cdd552	Error: Not allowed by CORS
 20220416	18:42:29	d94d8c05-758e-47b8-91f2-82b440b79420	SyntaxError: Unexpected string in JSON at position 40
+20220422	18:16:26	b2c8675b-ba97-4c16-a1eb-ae957bd8c198	Error: Not allowed by CORS
